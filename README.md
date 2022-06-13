@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="">☆ Português Brasileiro</a>
-    <a href="">☆ English ☆</a> 
+    <a href="https://github.com/Fernanda1701/to-do-list/blob/main/README.md">☆ Português Brasileiro</a>
+    <a href="https://github.com/Fernanda1701/to-do-list/blob/main/README.eng.md">☆ English ☆</a> 
 </p>
 
 
@@ -24,9 +24,9 @@ o <b>To-do List</b> é uma lista que recebe os <b><i>inputs</b></i> e com eles c
 Ao lado de cada tarefa "<b><i>a fazer</b></i>" temos dois botões:
 
 - [x] Deletar
-- [x] Completa (check)
+- [x] Completa (Check)
 
-Assim que a tarefa é completada, clicamos no botão "<b>check</b>" e a tarefa passa para a lista das "<b><i>tarefas completas</b></i>", onde obtemos as tarefas numeradas na
+Assim que a tarefa é completada, clicamos no botão "<b>Check</b>" e a tarefa passa para a lista das "<b><i>tarefas completas</b></i>", onde obtemos as tarefas numeradas na
 ordem em que foram executadas e um botão de "<b>Deletar</b>" para excluirmos as tarefas que não nos interessam mais.
 Abaixo, temos a demonstração da funcionalidade:
 
